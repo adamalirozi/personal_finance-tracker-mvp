@@ -1542,8 +1542,7 @@ Brief description of changes
 
 For questions, issues, or contributions:
 - Open an issue on GitHub
-- Email: support@example.com
-- Documentation: https://docs.example.com
+- Email: adam@aims-cameroon.org
 
 ---
 
@@ -1554,5 +1553,5 @@ MIT License - See LICENSE file for details
 ---
 
 **Last Updated**: January 4, 2026  
-**Version**: 2.0  
+**Version**: 1.0  
 **Maintained By**: Development Team</parameter>
