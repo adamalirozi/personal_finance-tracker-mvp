@@ -323,9 +323,6 @@ For issues or questions:
 
 ## Version History
 
-- **v2.0** (Current) - Added analytics, budgets, filtering, and CSV export
-- **v1.0** - Initial MVP with basic transaction tracking
+- **v1.0** - MVP with basic transaction tracking
 
 ---
-
-**Happy Tracking! 💰📊**
